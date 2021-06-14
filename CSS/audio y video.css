@@ -1,0 +1,12 @@
+audio{
+    padding-top: 15px;
+    width: 50%;
+    margin-top: auto;
+    display: table-cell;
+}
+video{
+    padding-top: 20px;
+    width: 50%;
+    margin-top: auto;
+    display: block;
+}

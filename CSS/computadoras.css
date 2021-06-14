@@ -1,0 +1,56 @@
+body{
+    background: rgb(99, 129, 139);
+
+}
+
+h1{
+    font-family: cursive;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+table{
+    margin-top: 60px;
+    caption-side: bottom;
+    margin-left: 50%;
+    margin-right: 50%;
+    border-collapse: collapse;
+
+}
+caption{
+    padding: 15%;
+    font-style: italic;
+}
+
+th{
+    background-color: black ;
+    color: white;
+}
+td, th {
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+h1 a {
+    padding: 10px 20px;
+    display: block ;
+    color: darkred;
+    text-decoration:none;
+    text-align: center; 
+}
+
+
+

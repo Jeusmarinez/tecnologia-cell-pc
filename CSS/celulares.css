@@ -1,0 +1,12 @@
+body{
+    background: aliceblue;
+}
+
+h1, a{
+
+padding: 10px 20px;
+    display: block ;
+    color: rgb(54, 55, 56);
+    text-decoration:none;
+    text-align: center; 
+}
